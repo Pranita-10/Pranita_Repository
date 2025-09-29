@@ -1,6 +1,6 @@
 # Pranita_Repository
 
-## In this repository I am adding my projects, and there information.
+## In this repository adding my projects, and there information.
 
 *I have finished some different simple projects by using the programming languages, like HTML, CSS, JavaScript.*
 
